@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f7348a6-c7cd-46d8-afde-df2ac4996264" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="279" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Calculadora-Entornos" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1c56XPJfZ3Ys9EbyaVuVF3y6Zu0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="sonarlint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.danny" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OperacionTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.danny.Main" />
+      <module name="Calculadora Entornos 2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora Entornos 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.danny" />
+      <option name="MAIN_CLASS_NAME" value="com.danny.OperacionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionTest.divTestZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora Entornos 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.danny" />
+      <option name="MAIN_CLASS_NAME" value="com.danny.OperacionTest" />
+      <option name="METHOD_NAME" value="divTestZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionTest.multTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora Entornos 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.danny" />
+      <option name="MAIN_CLASS_NAME" value="com.danny.OperacionTest" />
+      <option name="METHOD_NAME" value="multTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionTest.restaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora Entornos 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.danny" />
+      <option name="MAIN_CLASS_NAME" value="com.danny.OperacionTest" />
+      <option name="METHOD_NAME" value="restaTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OperacionTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.OperacionTest.restaTest" />
+        <item itemvalue="JUnit.OperacionTest.multTest" />
+        <item itemvalue="JUnit.OperacionTest.divTestZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f7348a6-c7cd-46d8-afde-df2ac4996264" name="Default Changelist" comment="" />
+      <created>1589806145514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589806145514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="177" key="#Project_Settings" timestamp="1589820672646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Project_Settings/0.0.1920.1040@0.0.1920.1040" timestamp="1589820672646" />
+    <state x="552" y="177" key="#SonarLint" timestamp="1589820671386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#SonarLint/0.0.1920.1040@0.0.1920.1040" timestamp="1589820671386" />
+    <state x="765" y="195" key="#com.intellij.ide.util.MemberChooser" timestamp="1589807112029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="195" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589807112029" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1590407620018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590407620018" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1590407620018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590407620018" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1590407620018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590407620018" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1590407620018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590407620018" />
+    <state x="350" y="161" width="1202" height="717" key="SettingsEditor" timestamp="1589820643455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="350" y="161" width="1202" height="717" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589820643455" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1590407643449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590407643449" />
+    <state x="636" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1589817759273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589817759273" />
+    <state x="665" y="407" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589818193078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="407" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1589818193078" />
+    <state x="767" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590407549532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590407549532" />
+    <state x="724" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589818229560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589818229560" />
+    <state x="433" y="278" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard" timestamp="1589820642614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="433" y="278" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589820642614" />
+    <state x="702" y="143" key="refactoring.ChangeSignatureDialog" timestamp="1589818601461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="143" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589818601461" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest_divTestZero.ic" NAME="OperacionTest.divTestZero Coverage Results" MODIFIED="1589824623579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.danny.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest_divTestZero2.ic" NAME="OperacionTest.divTestZero2 Coverage Results" MODIFIED="1589825645013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.danny.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest_divisionTest.ic" NAME="OperacionTest.divisionTest Coverage Results" MODIFIED="1589823699638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.danny.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$Main.ic" NAME="Main Coverage Results" MODIFIED="1590407268959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest_divTest.ic" NAME="OperacionTest.divTest Coverage Results" MODIFIED="1589824415349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.danny.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest.ic" NAME="OperacionTest Coverage Results" MODIFIED="1590407527299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.danny.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest_multTest.ic" NAME="OperacionTest.multTest Coverage Results" MODIFIED="1590407100979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.danny.*</FILTER>
+    </SUITE>
+  </component>
+</project>
