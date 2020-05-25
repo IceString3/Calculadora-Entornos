@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f7348a6-c7cd-46d8-afde-df2ac4996264" name="Default Changelist" comment="Refactored operacion to operation" />
+    <list default="true" id="9f7348a6-c7cd-46d8-afde-df2ac4996264" name="Default Changelist" comment="Refactored operacion to operation">
+      <change beforePath="$PROJECT_DIR$/src/com/danny/Resta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/danny/Resta.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
