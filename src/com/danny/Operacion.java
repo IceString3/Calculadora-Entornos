@@ -10,19 +10,19 @@ public class Operacion {
     private double n1;
     private double n2;
     private double res;
-    private char operacion;
+    private char operation;
 
 
-    public Operacion(double n1, double n2, char operacion) {
+    public Operacion(double n1, double n2, char operation) {
 
         this.n1 = n1;
         this.n2 = n2;
-        this.operacion = operacion;
+        this.operation = operation;
     }
 
 
     public void mostrarResultado(){
-        logger.log (Level.INFO, "{0} {1} {2} = {3} ", new Object[]{n1, operacion, n2, res});
+        logger.log (Level.INFO, "{0} {1} {2} = {3} ", new Object[]{n1, operation, n2, res});
     }
 
     public double getRes() {
