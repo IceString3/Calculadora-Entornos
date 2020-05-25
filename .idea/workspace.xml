@@ -47,7 +47,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.OperacionTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.danny.Main" />
       <module name="Calculadora Entornos 2" />
@@ -123,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OperacionTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.OperacionTest" />
         <item itemvalue="JUnit.OperacionTest.restaTest" />
         <item itemvalue="JUnit.OperacionTest.multTest" />
         <item itemvalue="JUnit.OperacionTest.divTestZero" />
@@ -169,22 +169,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="195" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589807112029" />
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1590407620018">
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1590409326355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590407620018" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1590407620018">
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590409326355" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1590409326355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590407620018" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1590407620018">
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590409326355" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1590409326355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590407620018" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1590407620018">
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590409326355" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1590409326355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590407620018" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590409326355" />
     <state x="350" y="161" width="1202" height="717" key="SettingsEditor" timestamp="1589820643455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -232,7 +232,7 @@
     <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest_divTest.ic" NAME="OperacionTest.divTest Coverage Results" MODIFIED="1589824415349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.danny.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest.ic" NAME="OperacionTest Coverage Results" MODIFIED="1590407527299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest.ic" NAME="OperacionTest Coverage Results" MODIFIED="1590409159546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.danny.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Calculadora_Entornos_2$OperacionTest_multTest.ic" NAME="OperacionTest.multTest Coverage Results" MODIFIED="1590407100979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

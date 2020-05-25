@@ -22,10 +22,7 @@ public class Operacion {
 
 
     public void mostrarResultado(){
-
-        //System.out.println(this.n1+" "+this.operacion+" "+this.n2+" = "+this.res);
         logger.log (Level.INFO, "{0} {1} {2} = {3} ", new Object[]{n1, operacion, n2, res});
-
     }
 
     public double getRes() {
