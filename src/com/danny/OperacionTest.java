@@ -54,12 +54,6 @@ class OperacionTest {
     }
 
     @Test
-    public void divisionTest2() {
-        Division div = new Division (x, y);
-        assertEquals (2.0, div.getRes ());
-    }
-
-    @Test
     public void multTest() {
         Multiplicacion mult = new Multiplicacion (x, y);
         assertEquals (50.0, mult.getRes ());
